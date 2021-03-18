@@ -15,8 +15,16 @@ header ul {
 
 }
 
-header li {
+header  li {
     list-style-type: none;
+}
+
+header a:hover {
+    color: orangered;
+}
+header a {
+    list-style-type: none;
+    text-decoration: none;
 }
 
 header  {
